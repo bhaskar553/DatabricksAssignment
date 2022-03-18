@@ -1,0 +1,8 @@
+7. Create a Final Vaccination Schedule with a plan to vaccinate 100 employees in a day 
+Across Cities in Parallel OR Sequential
+
+Answer: 
+1. To complete vaccination across cities in parllel is taking total 13 days
+2. To complete vaccination across cities in sequential is taking total 134 days
+
+Conculsion: Vaccination needs to be completed as early possible. Need to start Vaccination drive across cities in parallelly.
