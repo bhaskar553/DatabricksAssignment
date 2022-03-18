@@ -1,0 +1,23 @@
+1. Read Employee data in sampleEmployee dataframe from here https://www.briandunning.com/sample-data/us-500.zip
+
+2. Using this sampleEmployee dataframe create 100X more data points and store it into employeeDF ( this will have 50,000 rows )
+
+3. The company has to plan a vaccination drive and the priority will be based on employee population in a particular city
+
+4. Create a dataframe of CityEmployeeDensity, the 1st city will be the one with maxium number of employees
+
+5. Please create new dataframe by name "VaccinationDrivePlan" with all columns from employeeDF and additional column "Sequence"
+
+6. In Sequence Column populate the value from the CityEmployeeDensity Dataframe. Print this dataframe
+
+7. Create a Final Vaccination Schedule with a plan to vaccinate 100 employees in a day
+
+Across Cities in Parallel
+
+OR
+
+Sequential
+
+6. Print the final report showing in how many day the vaccination drive is completed per city
+
+8. Once done put the code and output on your Github account and share with recruitment team
